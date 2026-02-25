@@ -1,4 +1,4 @@
-Darke Pre-Geometry — Core Structural Programme
+Darke Pre-Geometry - Core Structural Programme
 
 This repository contains the formal axiom and theorem framework underlying the Darke Pre-Geometry video series (Season One).
 
