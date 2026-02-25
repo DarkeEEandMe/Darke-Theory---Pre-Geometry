@@ -26,3 +26,5 @@ Geometry appears not as a primitive, but as a representational encoding of coher
 This repository contains the formal mathematical statements supporting that structural progression.
 
 For a conceptual exposition, see the associated YouTube playlist:
+
+https://www.youtube.com/@James.A.DarkeDPG
