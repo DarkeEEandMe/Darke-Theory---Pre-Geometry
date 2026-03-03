@@ -1,11 +1,11 @@
-Darke Pre-Geometry - Core Structural Programme
+Darke Pre-Geometry — Core Structural Programme
 
 This repository contains the formal axiom and theorem framework underlying the Darke Pre-Geometry video series (Season One).
 
 The programme begins from a minimal assumption: difference.
 No spacetime, matter, or fields are presupposed.
 
-Through directed refinement and stabilised closure, the framework derives:
+Through directed refinement and stabilised closure, the framework develops:
 
 Finite generator sectors
 
